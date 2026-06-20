@@ -375,4 +375,12 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Rishitkesharwani/leetcode_solutions/tree/main/0242-valid-anagram/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0367-valid-perfect-square](https://github.com/Rishitkesharwani/leetcode_solutions/tree/main/0367-valid-perfect-square/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0367-valid-perfect-square](https://github.com/Rishitkesharwani/leetcode_solutions/tree/main/0367-valid-perfect-square/) | Easy |
 <!---LeetCode Topics End-->
